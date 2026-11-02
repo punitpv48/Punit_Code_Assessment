@@ -3,3 +3,7 @@
 .claude/** text
 .cursor/** text
 .aider.chat.history.md text
+
+# Keep executable shell scripts compatible with Linux containers
+bin/* text eol=lf
+.git-hooks/* text eol=lf
